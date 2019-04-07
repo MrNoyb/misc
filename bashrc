@@ -1,5 +1,6 @@
 
 export EDITOR=/usr/bin/nvim
+alias vim=nvim
 
 test -s ~/.alias && . ~/.alias || true
 
